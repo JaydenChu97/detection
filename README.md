@@ -1,4 +1,3 @@
-# detection
 ## CV Master Video结构化专题 Label Assigntment作业
 ### 作业说明
 #### 作业内容
